@@ -8,8 +8,11 @@ The dataset used for this project contains detailed records of call center opera
 ### Key Features
 
 1. Answered vs. Resolved Calls: Donut charts display the percentage of calls that were answered and resolved.
+   
 2. Average Satisfaction: A gauge visualization shows the average satisfaction rating of the calls.
+   
 3. Call Performance by Month: Bar charts highlight the number of calls received each month and whether they were answered or not.
+   
 4. Agent Performance: A tabular report that tracks the number of calls handled by each agent, the number of issues resolved, their average customer satisfaction scores, and the average speed of response.
 
 ### Visualizations
@@ -33,11 +36,18 @@ The dataset used for this project contains detailed records of call center opera
 The dataset used in this dashboard is located in 01 Call-Center-Dataset.xlsx. It includes the following columns:
 
 1. Agent: Name of the call center agent
+   
 2. Answered (Y/N): Whether the call was answered (Y or N)
+   
 3. Resolved: Whether the call was resolved (Y or N)
+   
 4. AvgTalkDuration: The average duration of the call
+   
 5. Satisfaction Rating: A score between 0-5 reflecting customer satisfaction
+    
 6. Speed of Answer: The speed (in seconds) it took to answer the call
+    
 7. Topic: The topic of the call (e.g., Admin Support)
+    
 8. Date: The date the call was made
 
