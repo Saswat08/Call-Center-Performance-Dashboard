@@ -19,9 +19,13 @@ The dataset used for this project contains detailed records of call center opera
 3. Average Satisfaction: A gauge chart representing the average customer satisfaction score, scaled from 0 to 5.
 4. Calls Per Month: A bar chart comparing the number of answered and not answered calls across different months.
 5. Agent Performance Table: A table showing the call-handling performance of individual agents, including:
+   
    a. Number of answered calls
+   
    b. Number of resolved calls
+   
    c. Average satisfaction rating
+   
    d. Average speed of answer (in seconds)
 
 ### Dataset
